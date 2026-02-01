@@ -1,36 +1,97 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kushagra Gupta — Portfolio
 
-## Getting Started
+Personal portfolio website showcasing my experience, projects, and technical skill set as a **backend-focused full-stack engineer**.
 
-First, run the development server:
+🔗 **Live:** (add your deployed link here)  
+📄 **Resume:** Available on the website  
+📬 **Contact:** Via integrated contact form
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 👋 About Me
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I’m a backend-focused full-stack engineer with **2+ years of experience** building and optimizing **large-scale distributed systems** in production environments.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+My work primarily involves:
+- Designing and maintaining APIs
+- Improving system performance and reliability
+- Building real-time data pipelines
+- Working on internal platforms where observability and scalability matter
 
-## Learn More
+Currently open to **backend or backend-heavy full-stack roles**.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Frontend
+- React
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
 
-## Deploy on Vercel
+### Backend / Systems
+- Node.js
+- Express
+- REST APIs
+- Redis
+- Kafka
+- Elasticsearch
+- Distributed Systems
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### DevOps & Monitoring
+- Docker
+- Azure
+- Grafana
+- Prometheus
+- Linux
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📂 Featured Projects
+
+### 🔹 DeFi Application
+Decentralized finance application enabling Ethereum and testnet transfers using smart contracts and Web3 integration.
+
+**Tech:** React, Web3, Blockchain, Smart Contracts  
+**Code:** (GitHub link)
+
+---
+
+### 🔹 NFT Marketplace (Mobile)
+Mobile-first NFT marketplace with real-time metadata rendering and wallet support.
+
+**Tech:** React Native, Expo, Blockchain  
+**Code:** (GitHub link)
+
+---
+
+### 🔹 Conference Meeting App
+Real-time video conferencing application with live polls, access control, and WebRTC-based communication.
+
+**Tech:** React, WebRTC, Agora, Real-time Systems  
+**Code:** (GitHub link)
+
+---
+
+## ✉️ Contact
+
+The portfolio includes a fully functional contact form with:
+- POST-based submission
+- Spam protection (honeypot)
+- Success & error handling
+- Clean UX (no page reloads)
+
+You can also reach out via:
+- **Email:** kushagra.gupta05@outlook.com
+- **LinkedIn:** https://linkedin.com/in/kushagra-gupta05
+- **GitHub:** https://github.com/05-kush
+
+---
+
+## 🌐 Live Demo
+
+The portfolio is live and deployed on Vercel:
+
+👉 [https://kushagra-portfolio.vercel.app](https://kushagra-gupta-portfolio.vercel.app/)
+

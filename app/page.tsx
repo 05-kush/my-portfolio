@@ -1,19 +1,25 @@
-import Hero from "@/components/Hero"
+import Navbar from "@/components/layout/Navbar";
+import Hero from "@/components/Hero";
 import About from "@/components/About";
-import Skills from "@/components/Skills"
-import Experience from "@/components/Experience";
+import MetricsStrip from "@/components/sections/MetricsStrip";
 import Projects from "@/components/Projects";
-import Contact from "@/components/Contact"
+import Skills from "@/components/Skills";
+import Experience from "@/components/Experience";
+import Contact from "@/components/Contact";
 
 export default function Home() {
   return (
-    <main className="space-y-32 px-6 md:px-20">
-      <Hero />
-      <About />
-      <Skills />
-      <Experience />
-      <Projects />
-      <Contact />
-    </main>
+    <>
+      <Navbar />
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
+        <Hero />
+        <About />
+        <MetricsStrip />
+        <Projects />
+        <Skills />
+        <Experience />
+        <Contact />
+      </main>
+    </>
   );
 }

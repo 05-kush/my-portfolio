@@ -94,7 +94,7 @@ export const projects: Project[] = [
     category: "Algorithms & Systems",
     links: {
       github: "https://github.com/05-kush/bus-scheduler",
-      live: "https://share.streamlit.io/"
+      live: "https://bus-scheduler.streamlit.app/"
     }
   },
   {

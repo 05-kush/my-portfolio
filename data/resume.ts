@@ -93,7 +93,7 @@ export const projects: Project[] = [
     tech: ["Python", "Streamlit", "Algorithm Design", "Rule Engine", "Data Modeling"],
     category: "Algorithms & Systems",
     links: {
-      github: "https://github.com/05-kush/bus-charging-scheduler",
+      github: "https://github.com/05-kush/bus-scheduler",
       live: "https://share.streamlit.io/"
     }
   },
@@ -113,7 +113,7 @@ export const projects: Project[] = [
     tech: ["Node.js", "Express.js", "React", "TypeScript", "Socket.IO", "Prisma ORM", "JWT", "Vitest"],
     category: "Full-Stack & State Machine",
     links: {
-      github: "https://github.com/05-kush/task-support-tracker"
+      github: "https://github.com/05-kush/unified-ticket-tracker"
     }
   },
   {
